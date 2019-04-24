@@ -50,5 +50,6 @@
               "pdflatex"
             ]
           }
-      ]
+      ],
+      "maven.view": "flat"
 }
